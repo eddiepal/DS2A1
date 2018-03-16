@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54a6dbd0-2565-4f41-ac16-49a8780a0d46" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/sample/SampleController.java" afterPath="$PROJECT_DIR$/src/sample/SampleController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,42 +18,42 @@
       <file leaf-file-name="SampleController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="67" column="67" lean-forward="false" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+            <state relative-caret-position="442">
+              <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
               <folding>
                 <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
                 <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-                <element signature="e#1875#1926#0" expanded="false" />
+                <element signature="e#1876#1927#0" expanded="false" />
                 <element signature="method#test7#0;class#SampleController#0" expanded="false" />
                 <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-                <element signature="e#2555#2580#0" expanded="false" />
+                <element signature="e#2556#2581#0" expanded="false" />
                 <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-                <element signature="e#4161#4224#0" expanded="false" />
-                <element signature="e#4529#4571#0" expanded="false" />
+                <element signature="e#4162#4225#0" expanded="false" />
+                <element signature="e#4530#4572#0" expanded="false" />
                 <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
                 <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
                 <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
                 <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
                 <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
                 <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-                <element signature="e#9620#9656#0" expanded="false" />
-                <element signature="e#10043#10089#0" expanded="false" />
-                <element signature="e#11025#11055#0" expanded="false" />
+                <element signature="e#9621#9657#0" expanded="false" />
+                <element signature="e#10044#10090#0" expanded="false" />
+                <element signature="e#11026#11056#0" expanded="false" />
                 <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
                 <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
                 <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
                 <element signature="method#test1#0;class#SampleController#0" expanded="false" />
                 <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-                <element signature="e#15187#15227#0" expanded="false" />
-                <element signature="e#15599#15633#0" expanded="false" />
-                <element signature="e#15925#15970#0" expanded="false" />
-                <element signature="e#16187#16235#0" expanded="false" />
-                <element signature="e#16455#16500#0" expanded="false" />
-                <element signature="e#16717#16787#0" expanded="false" />
-                <element signature="e#17029#17096#0" expanded="false" />
-                <element signature="e#17333#17399#0" expanded="false" />
-                <element signature="e#17633#17696#0" expanded="false" />
-                <element signature="e#19966#20007#0" expanded="false" />
+                <element signature="e#15188#15228#0" expanded="false" />
+                <element signature="e#15600#15634#0" expanded="false" />
+                <element signature="e#15926#15971#0" expanded="false" />
+                <element signature="e#16188#16236#0" expanded="false" />
+                <element signature="e#16456#16501#0" expanded="false" />
+                <element signature="e#16718#16788#0" expanded="false" />
+                <element signature="e#17030#17097#0" expanded="false" />
+                <element signature="e#17334#17400#0" expanded="false" />
+                <element signature="e#17634#17697#0" expanded="false" />
+                <element signature="e#19967#20008#0" expanded="false" />
                 <element signature="method#test5#0;class#SampleController#0" expanded="false" />
                 <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
                 <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -394,7 +395,7 @@
       <workItem from="1521216490427" duration="761000" />
       <workItem from="1521229452136" duration="707000" />
       <workItem from="1521232999035" duration="693000" />
-      <workItem from="1521239585829" duration="52000" />
+      <workItem from="1521239585829" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="test5">
       <created>1521233145904</created>
@@ -417,11 +418,32 @@
       <option name="project" value="LOCAL" />
       <updated>1521239627692</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test5">
+      <created>1521239645218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521239645218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test5">
+      <created>1521240188328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521240188328</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test5">
+      <created>1521240324971</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521240324971</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113389000" />
+    <option name="totallyTimeSpent" value="114654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -534,37 +556,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -588,37 +610,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -652,37 +674,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -726,37 +748,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -790,37 +812,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -846,37 +868,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -900,37 +922,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -954,37 +976,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -1008,37 +1030,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -1062,37 +1084,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -1116,37 +1138,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -1170,37 +1192,37 @@
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
@@ -1270,42 +1292,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="67" column="67" lean-forward="false" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+        <state relative-caret-position="442">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1875#1926#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
             <element signature="method#test7#0;class#SampleController#0" expanded="false" />
             <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2555#2580#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
             <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
-            <element signature="e#4161#4224#0" expanded="false" />
-            <element signature="e#4529#4571#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
             <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
             <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
             <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
             <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
             <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9620#9656#0" expanded="false" />
-            <element signature="e#10043#10089#0" expanded="false" />
-            <element signature="e#11025#11055#0" expanded="false" />
+            <element signature="e#9621#9657#0" expanded="false" />
+            <element signature="e#10044#10090#0" expanded="false" />
+            <element signature="e#11026#11056#0" expanded="false" />
             <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
             <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
             <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
             <element signature="method#test1#0;class#SampleController#0" expanded="false" />
             <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15187#15227#0" expanded="false" />
-            <element signature="e#15599#15633#0" expanded="false" />
-            <element signature="e#15925#15970#0" expanded="false" />
-            <element signature="e#16187#16235#0" expanded="false" />
-            <element signature="e#16455#16500#0" expanded="false" />
-            <element signature="e#16717#16787#0" expanded="false" />
-            <element signature="e#17029#17096#0" expanded="false" />
-            <element signature="e#17333#17399#0" expanded="false" />
-            <element signature="e#17633#17696#0" expanded="false" />
-            <element signature="e#19966#20007#0" expanded="false" />
+            <element signature="e#15188#15228#0" expanded="false" />
+            <element signature="e#15600#15634#0" expanded="false" />
+            <element signature="e#15926#15971#0" expanded="false" />
+            <element signature="e#16188#16236#0" expanded="false" />
+            <element signature="e#16456#16501#0" expanded="false" />
+            <element signature="e#16718#16788#0" expanded="false" />
+            <element signature="e#17030#17097#0" expanded="false" />
+            <element signature="e#17334#17400#0" expanded="false" />
+            <element signature="e#17634#17697#0" expanded="false" />
+            <element signature="e#19967#20008#0" expanded="false" />
             <element signature="method#test5#0;class#SampleController#0" expanded="false" />
             <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
             <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
