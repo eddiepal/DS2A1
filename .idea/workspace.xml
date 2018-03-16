@@ -17,8 +17,8 @@
       <file leaf-file-name="SampleController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="319" column="41" lean-forward="true" selection-start-line="319" selection-start-column="41" selection-end-line="319" selection-end-column="41" />
+            <state relative-caret-position="248">
+              <caret line="403" column="0" lean-forward="true" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
               <folding>
                 <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
                 <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
@@ -395,7 +395,7 @@
       <workItem from="1521229452136" duration="707000" />
       <workItem from="1521232999035" duration="693000" />
       <workItem from="1521239585829" duration="2018000" />
-      <workItem from="1521241646895" duration="504000" />
+      <workItem from="1521241646895" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="test5">
       <created>1521233145904</created>
@@ -460,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521240985716</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test5">
+      <created>1521242188652</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521242188652</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115859000" />
+    <option name="totallyTimeSpent" value="116552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -1313,8 +1320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="319" column="41" lean-forward="true" selection-start-line="319" selection-start-column="41" selection-end-line="319" selection-end-column="41" />
+        <state relative-caret-position="248">
+          <caret line="403" column="0" lean-forward="true" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
