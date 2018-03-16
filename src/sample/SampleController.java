@@ -30,7 +30,7 @@ import javafx.scene.control.Slider;
 
 
 public class SampleController implements Initializable {
-
+//yoo
     public Label helloWorld;
     private Desktop desktop = Desktop.getDesktop();
     public TextArea sheepText;
@@ -737,5 +737,4 @@ public class SampleController implements Initializable {
             }
         }
     }
-
 }
