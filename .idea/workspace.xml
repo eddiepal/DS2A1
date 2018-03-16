@@ -17,8 +17,8 @@
       <file leaf-file-name="SampleController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="297" column="5" lean-forward="true" selection-start-line="297" selection-start-column="5" selection-end-line="297" selection-end-column="5" />
+            <state relative-caret-position="197">
+              <caret line="319" column="41" lean-forward="true" selection-start-line="319" selection-start-column="41" selection-end-line="319" selection-end-column="41" />
               <folding>
                 <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
                 <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
@@ -170,9 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,6 +199,9 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,7 +394,8 @@
       <workItem from="1521216490427" duration="761000" />
       <workItem from="1521229452136" duration="707000" />
       <workItem from="1521232999035" duration="693000" />
-      <workItem from="1521239585829" duration="1423000" />
+      <workItem from="1521239585829" duration="2018000" />
+      <workItem from="1521241646895" duration="504000" />
     </task>
     <task id="LOCAL-00001" summary="test5">
       <created>1521233145904</created>
@@ -463,7 +464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114760000" />
+    <option name="totallyTimeSpent" value="115859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -474,7 +475,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12817904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13205129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1312,8 +1313,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="297" column="5" lean-forward="true" selection-start-line="297" selection-start-column="5" selection-end-line="297" selection-end-column="5" />
+        <state relative-caret-position="197">
+          <caret line="319" column="41" lean-forward="true" selection-start-line="319" selection-start-column="41" selection-end-line="319" selection-end-column="41" />
           <folding>
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
