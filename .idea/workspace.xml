@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54a6dbd0-2565-4f41-ac16-49a8780a0d46" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SampleController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="404" column="56" lean-forward="false" selection-start-line="404" selection-start-column="56" selection-end-line="404" selection-end-column="56" />
+              <folding>
+                <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+                <element signature="e#1870#1921#0" expanded="false" />
+                <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+                <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+                <element signature="e#2550#2575#0" expanded="false" />
+                <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+                <element signature="e#4156#4219#0" expanded="false" />
+                <element signature="e#4524#4566#0" expanded="false" />
+                <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+                <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+                <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+                <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+                <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+                <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+                <element signature="e#9615#9651#0" expanded="false" />
+                <element signature="e#10038#10084#0" expanded="false" />
+                <element signature="e#11020#11050#0" expanded="false" />
+                <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+                <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+                <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+                <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+                <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+                <element signature="e#15182#15222#0" expanded="false" />
+                <element signature="e#15594#15628#0" expanded="false" />
+                <element signature="e#15920#15965#0" expanded="false" />
+                <element signature="e#16182#16230#0" expanded="false" />
+                <element signature="e#16450#16495#0" expanded="false" />
+                <element signature="e#16712#16782#0" expanded="false" />
+                <element signature="e#17024#17091#0" expanded="false" />
+                <element signature="e#17328#17394#0" expanded="false" />
+                <element signature="e#17628#17691#0" expanded="false" />
+                <element signature="e#19961#20002#0" expanded="false" />
+                <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+                <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+                <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+                <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+                <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+                <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageIO.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/javax/imageio/ImageIO.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17178">
+              <caret line="892" column="0" lean-forward="false" selection-start-line="892" selection-start-column="0" selection-end-line="892" selection-end-column="0" />
+              <folding>
+                <marker date="1516808459220" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1516808459220" expanded="false" signature="137:1061" ph="..." />
+                <marker date="1516808459220" expanded="true" signature="1504:1511" ph="{}" />
+                <marker date="1516808459220" expanded="false" signature="1552:1563" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="1610:1616" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="1683:1988" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="2029:2170" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="2220:3526" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="3576:3587" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="3620:3626" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="3667:3678" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="3714:3720" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="3774:4039" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="4083:4094" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="4136:4142" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="4234:5161" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="5255:6188" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="6308:6787" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="6839:6934" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="6984:7077" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="7130:7226" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="7297:7773" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="7856:8356" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="8435:8936" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="9017:9513" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="9565:9660" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="9710:9803" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="9856:9952" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="10018:10210" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="10293:10793" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="10872:11373" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="11454:11950" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="12015:13818" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="13883:15686" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="15782:16378" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="16480:17250" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="17319:17924" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="18000:18341" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="18409:19107" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="19188:19895" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="20005:20401" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="20498:21299" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="21404:21987" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="22063:22272" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="22390:22691" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="22704:23343" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="23372:24095" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="23509:23520" ph="{}" />
+                <marker date="1516808459220" expanded="false" signature="23558:23573" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="23594:23604" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="23651:23666" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="23687:23697" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="23738:23753" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="23780:23790" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="23840:23855" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="23882:23892" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="23935:23950" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="23976:23986" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="24038:24053" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="24079:24089" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="24153:24978" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="24226:24241" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="24259:24269" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="24314:24972" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="25045:25503" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="25191:25268" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="25313:25497" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="25555:25994" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="25658:25731" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="25776:25988" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="26066:26769" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="26148:26163" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="26180:26190" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="26224:26239" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="26266:26276" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="26312:26666" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="26696:26711" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="26753:26763" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="26849:27370" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="26935:26950" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="26967:26977" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="27011:27026" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="27053:27063" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="27103:27267" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="27297:27312" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="27354:27364" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="27442:28145" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="27524:27539" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="27556:27566" ph=" }" />
+                <marker date="1516808459220" expanded="false" signature="27600:27615" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="27642:27652" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="27688:28042" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="28072:28087" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="28129:28139" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="28179:28730" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="28202:28328" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="28256:28275" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="28304:28318" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="28349:28473" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="28403:28422" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="28449:28463" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="28497:28624" ph="{...}" />
+                <marker date="1516808459220" expanded="false" signature="28551:28570" ph=" { " />
+                <marker date="1516808459220" expanded="false" signature="28600:28614" ph=" }" />
+                <marker date="1516808459220" expanded="true" signature="28653:28664" ph="{}" />
+                <marker date="1516808459220" expanded="true" signature="28784:29391" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="28921:29052" ph="{...}" />
+                <marker date="1516808459220" expanded="true" signature="29097:29385" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Sample.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>opensingle</find>
+      <find>even</find>
+      <find>setImage</find>
+      <find>file</find>
+      <find>pixelread</find>
+      <find>BufferedImage result \= new BufferedImage\(\n            image\.getWidth\(\)\,\n            image\.getHeight\(\)\,\n            BufferedImage\.TYPE_BYTE_BINARY\)\;</find>
+      <find>test5</find>
+      <find>open</find>
+      <find>red</find>
+      <find>rect</find>
+      <find>openSingle</find>
+      <find>test1</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/Sample.css" />
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/SampleController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="814" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PracticalJfx1.userlibraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PracticalJfx" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54a6dbd0-2565-4f41-ac16-49a8780a0d46" name="Default" comment="" />
+      <created>1519590255229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519590255229</updated>
+      <workItem from="1519590258604" duration="909000" />
+      <workItem from="1519602881533" duration="37000" />
+      <workItem from="1519855237715" duration="6339000" />
+      <workItem from="1519903110305" duration="2120000" />
+      <workItem from="1519914012921" duration="5846000" />
+      <workItem from="1519936831687" duration="2903000" />
+      <workItem from="1519947131476" duration="3475000" />
+      <workItem from="1519986117424" duration="18815000" />
+      <workItem from="1520098111759" duration="19000" />
+      <workItem from="1520101633799" duration="1805000" />
+      <workItem from="1520160451697" duration="53000" />
+      <workItem from="1520162778462" duration="1946000" />
+      <workItem from="1520190150946" duration="1722000" />
+      <workItem from="1520260810071" duration="1266000" />
+      <workItem from="1520425642892" duration="1825000" />
+      <workItem from="1520427734492" duration="533000" />
+      <workItem from="1520435729757" duration="4516000" />
+      <workItem from="1520464748038" duration="3896000" />
+      <workItem from="1520682299652" duration="1054000" />
+      <workItem from="1520686060153" duration="1020000" />
+      <workItem from="1520690139977" duration="755000" />
+      <workItem from="1520690927687" duration="1890000" />
+      <workItem from="1520708108736" duration="593000" />
+      <workItem from="1520866020019" duration="84000" />
+      <workItem from="1520887181781" duration="595000" />
+      <workItem from="1520888640324" duration="2297000" />
+      <workItem from="1520904375575" duration="15000" />
+      <workItem from="1520938026601" duration="112000" />
+      <workItem from="1520954527490" duration="1386000" />
+      <workItem from="1520972014260" duration="4056000" />
+      <workItem from="1520978062217" duration="1205000" />
+      <workItem from="1521031361654" duration="49000" />
+      <workItem from="1521031470695" duration="1662000" />
+      <workItem from="1521033861905" duration="2086000" />
+      <workItem from="1521041281924" duration="4205000" />
+      <workItem from="1521057840391" duration="12647000" />
+      <workItem from="1521104927595" duration="308000" />
+      <workItem from="1521113289725" duration="31000" />
+      <workItem from="1521113463190" duration="2027000" />
+      <workItem from="1521116533496" duration="2045000" />
+      <workItem from="1521127514224" duration="1987000" />
+      <workItem from="1521191761040" duration="2828000" />
+      <workItem from="1521195433449" duration="2948000" />
+      <workItem from="1521207200626" duration="3298000" />
+      <workItem from="1521215902990" duration="118000" />
+      <workItem from="1521216490427" duration="761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111937000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13205129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.119375" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.102564104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119375" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="322" column="26" lean-forward="false" selection-start-line="322" selection-start-column="26" selection-end-line="322" selection-end-column="26" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="26" lean-forward="false" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="26" lean-forward="true" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="63" lean-forward="false" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="264" column="21" lean-forward="false" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="21" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="63" lean-forward="false" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="264" column="21" lean-forward="false" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="21" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="63" lean-forward="false" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3349">
+          <caret line="231" column="40" lean-forward="false" selection-start-line="231" selection-start-column="40" selection-end-line="231" selection-end-column="40" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3298">
+          <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="188" column="37" lean-forward="true" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3451">
+          <caret line="203" column="51" lean-forward="false" selection-start-line="203" selection-start-column="51" selection-end-line="203" selection-end-column="51" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="51" lean-forward="true" selection-start-line="181" selection-start-column="51" selection-end-line="181" selection-end-column="51" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="52" lean-forward="false" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Sample.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/android-sdks/sources/android-27/android/media/effect/effects/BrightnessEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/imageio/ImageIO.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/javax/imageio/ImageIO.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17178">
+          <caret line="892" column="0" lean-forward="false" selection-start-line="892" selection-start-column="0" selection-end-line="892" selection-end-column="0" />
+          <folding>
+            <marker date="1516808459220" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1516808459220" expanded="false" signature="137:1061" ph="..." />
+            <marker date="1516808459220" expanded="true" signature="1504:1511" ph="{}" />
+            <marker date="1516808459220" expanded="false" signature="1552:1563" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="1610:1616" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="1683:1988" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="2029:2170" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="2220:3526" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="3576:3587" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="3620:3626" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="3667:3678" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="3714:3720" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="3774:4039" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="4083:4094" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="4136:4142" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="4234:5161" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="5255:6188" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="6308:6787" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="6839:6934" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="6984:7077" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="7130:7226" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="7297:7773" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="7856:8356" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="8435:8936" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="9017:9513" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="9565:9660" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="9710:9803" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="9856:9952" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="10018:10210" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="10293:10793" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="10872:11373" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="11454:11950" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="12015:13818" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="13883:15686" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="15782:16378" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="16480:17250" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="17319:17924" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="18000:18341" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="18409:19107" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="19188:19895" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="20005:20401" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="20498:21299" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="21404:21987" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="22063:22272" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="22390:22691" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="22704:23343" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="23372:24095" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="23509:23520" ph="{}" />
+            <marker date="1516808459220" expanded="false" signature="23558:23573" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="23594:23604" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="23651:23666" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="23687:23697" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="23738:23753" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="23780:23790" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="23840:23855" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="23882:23892" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="23935:23950" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="23976:23986" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="24038:24053" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="24079:24089" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="24153:24978" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="24226:24241" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="24259:24269" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="24314:24972" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="25045:25503" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="25191:25268" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="25313:25497" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="25555:25994" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="25658:25731" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="25776:25988" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="26066:26769" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="26148:26163" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="26180:26190" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="26224:26239" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="26266:26276" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="26312:26666" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="26696:26711" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="26753:26763" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="26849:27370" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="26935:26950" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="26967:26977" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="27011:27026" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="27053:27063" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="27103:27267" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="27297:27312" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="27354:27364" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="27442:28145" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="27524:27539" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="27556:27566" ph=" }" />
+            <marker date="1516808459220" expanded="false" signature="27600:27615" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="27642:27652" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="27688:28042" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="28072:28087" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="28129:28139" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="28179:28730" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="28202:28328" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="28256:28275" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="28304:28318" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="28349:28473" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="28403:28422" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="28449:28463" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="28497:28624" ph="{...}" />
+            <marker date="1516808459220" expanded="false" signature="28551:28570" ph=" { " />
+            <marker date="1516808459220" expanded="false" signature="28600:28614" ph=" }" />
+            <marker date="1516808459220" expanded="true" signature="28653:28664" ph="{}" />
+            <marker date="1516808459220" expanded="true" signature="28784:29391" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="28921:29052" ph="{...}" />
+            <marker date="1516808459220" expanded="true" signature="29097:29385" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="404" column="56" lean-forward="false" selection-start-line="404" selection-start-column="56" selection-end-line="404" selection-end-column="56" />
+          <folding>
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1870#1921#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="method#Grayscale#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2550#2575#0" expanded="false" />
+            <element signature="method#GetPixelColor#0;class#SampleController#0" expanded="false" />
+            <element signature="e#4156#4219#0" expanded="false" />
+            <element signature="e#4524#4566#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9615#9651#0" expanded="false" />
+            <element signature="e#10038#10084#0" expanded="false" />
+            <element signature="e#11020#11050#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="method#countSheep#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15182#15222#0" expanded="false" />
+            <element signature="e#15594#15628#0" expanded="false" />
+            <element signature="e#15920#15965#0" expanded="false" />
+            <element signature="e#16182#16230#0" expanded="false" />
+            <element signature="e#16450#16495#0" expanded="false" />
+            <element signature="e#16712#16782#0" expanded="false" />
+            <element signature="e#17024#17091#0" expanded="false" />
+            <element signature="e#17328#17394#0" expanded="false" />
+            <element signature="e#17628#17691#0" expanded="false" />
+            <element signature="e#19961#20002#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PracticalJfx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
