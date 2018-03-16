@@ -28,7 +28,7 @@ import java.util.logging.Logger;
 
 import javafx.scene.control.Slider;
 
-
+//testdelete
 public class SampleController implements Initializable {
 //uuuu
     public Label helloWorld;
