@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="54a6dbd0-2565-4f41-ac16-49a8780a0d46" name="Default" comment="test8">
+=======
+    <list default="true" id="54a6dbd0-2565-4f41-ac16-49a8780a0d46" name="Default" comment="8">
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/sample/SampleController.java" afterPath="$PROJECT_DIR$/src/sample/SampleController.java" />
     </list>
@@ -59,11 +63,16 @@
                 <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
 =======
             <state relative-caret-position="126">
-              <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding>
+<<<<<<< HEAD
                 <element signature="e#9484#9485#0" expanded="true" />
                 <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+                <element signature="e#9489#9490#0" expanded="true" />
+                <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
               </folding>
             </state>
           </provider>
@@ -568,6 +577,7 @@
       <updated>1521240985716</updated>
     </task>
     <task id="LOCAL-00010" summary="test5">
+<<<<<<< HEAD
       <created>1521242188652</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
@@ -627,6 +637,33 @@
     <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
 =======
     <option name="totallyTimeSpent" value="114975000" />
+=======
+      <created>1521241455199</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521241455199</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test5">
+      <created>1521242116597</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1521242116597</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test5">
+      <created>1521242133396</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1521242133396</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116499000" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -768,61 +805,6 @@
           <caret line="322" column="26" lean-forward="false" selection-start-line="322" selection-start-column="26" selection-end-line="322" selection-end-column="26" />
           <folding>
 <<<<<<< HEAD
-            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
-            <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1876#1927#0" expanded="false" />
-            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2556#2581#0" expanded="false" />
-            <element signature="e#4162#4225#0" expanded="false" />
-            <element signature="e#4530#4572#0" expanded="false" />
-            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
-            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
-            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
-            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
-            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
-            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9562#9598#0" expanded="false" />
-            <element signature="e#9985#10031#0" expanded="false" />
-            <element signature="e#10967#10997#0" expanded="false" />
-            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
-            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
-            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
-            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15129#15169#0" expanded="false" />
-            <element signature="e#15541#15575#0" expanded="false" />
-            <element signature="e#15867#15912#0" expanded="false" />
-            <element signature="e#16129#16177#0" expanded="false" />
-            <element signature="e#16397#16442#0" expanded="false" />
-            <element signature="e#16659#16729#0" expanded="false" />
-            <element signature="e#16971#17038#0" expanded="false" />
-            <element signature="e#17275#17341#0" expanded="false" />
-            <element signature="e#17575#17638#0" expanded="false" />
-            <element signature="e#19908#19949#0" expanded="false" />
-            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
-            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-=======
-            <element signature="e#9484#9485#0" expanded="true" />
-            <element signature="e#9514#9515#0" expanded="true" />
->>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4658">
-          <caret line="274" column="26" lean-forward="false" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
-          <folding>
 <<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
@@ -863,6 +845,71 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="26" lean-forward="false" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
+          <folding>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9562#9598#0" expanded="false" />
+            <element signature="e#9985#10031#0" expanded="false" />
+            <element signature="e#10967#10997#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15129#15169#0" expanded="false" />
+            <element signature="e#15541#15575#0" expanded="false" />
+            <element signature="e#15867#15912#0" expanded="false" />
+            <element signature="e#16129#16177#0" expanded="false" />
+            <element signature="e#16397#16442#0" expanded="false" />
+            <element signature="e#16659#16729#0" expanded="false" />
+            <element signature="e#16971#17038#0" expanded="false" />
+            <element signature="e#17275#17341#0" expanded="false" />
+            <element signature="e#17575#17638#0" expanded="false" />
+            <element signature="e#19908#19949#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+=======
+            <element signature="e#9484#9485#0" expanded="true" />
+            <element signature="e#9514#9515#0" expanded="true" />
+>>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -890,81 +937,6 @@
           <caret line="274" column="26" lean-forward="true" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
           <folding>
 <<<<<<< HEAD
-            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
-            <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1876#1927#0" expanded="false" />
-            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2556#2581#0" expanded="false" />
-            <element signature="e#4162#4225#0" expanded="false" />
-            <element signature="e#4530#4572#0" expanded="false" />
-            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
-            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
-            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
-            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
-            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
-            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9562#9598#0" expanded="false" />
-            <element signature="e#9985#10031#0" expanded="false" />
-            <element signature="e#10967#10997#0" expanded="false" />
-            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
-            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
-            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
-            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15129#15169#0" expanded="false" />
-            <element signature="e#15541#15575#0" expanded="false" />
-            <element signature="e#15867#15912#0" expanded="false" />
-            <element signature="e#16129#16177#0" expanded="false" />
-            <element signature="e#16397#16442#0" expanded="false" />
-            <element signature="e#16659#16729#0" expanded="false" />
-            <element signature="e#16971#17038#0" expanded="false" />
-            <element signature="e#17275#17341#0" expanded="false" />
-            <element signature="e#17575#17638#0" expanded="false" />
-            <element signature="e#19908#19949#0" expanded="false" />
-            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
-            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-=======
-            <element signature="e#9484#9485#0" expanded="true" />
-            <element signature="e#9514#9515#0" expanded="true" />
->>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="63" lean-forward="false" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3910">
-          <caret line="264" column="21" lean-forward="false" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="21" />
-          <folding>
 <<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
@@ -1005,10 +977,24 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1031,6 +1017,7 @@
         <state relative-caret-position="3910">
           <caret line="264" column="21" lean-forward="false" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="21" />
           <folding>
+<<<<<<< HEAD
 <<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
@@ -1071,6 +1058,81 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="63" lean-forward="false" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/image/Image.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumToolkit.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="264" column="21" lean-forward="false" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="21" />
+          <folding>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9562#9598#0" expanded="false" />
+            <element signature="e#9985#10031#0" expanded="false" />
+            <element signature="e#10967#10997#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15129#15169#0" expanded="false" />
+            <element signature="e#15541#15575#0" expanded="false" />
+            <element signature="e#15867#15912#0" expanded="false" />
+            <element signature="e#16129#16177#0" expanded="false" />
+            <element signature="e#16397#16442#0" expanded="false" />
+            <element signature="e#16659#16729#0" expanded="false" />
+            <element signature="e#16971#17038#0" expanded="false" />
+            <element signature="e#17275#17341#0" expanded="false" />
+            <element signature="e#17575#17638#0" expanded="false" />
+            <element signature="e#19908#19949#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+=======
+            <element signature="e#9484#9485#0" expanded="true" />
+            <element signature="e#9514#9515#0" expanded="true" />
+>>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1090,6 +1152,7 @@
           <caret line="231" column="40" lean-forward="false" selection-start-line="231" selection-start-column="40" selection-end-line="231" selection-end-column="40" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
             <element signature="e#1876#1927#0" expanded="false" />
@@ -1129,6 +1192,10 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1146,6 +1213,7 @@
           <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="34" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
             <element signature="e#1876#1927#0" expanded="false" />
@@ -1185,6 +1253,10 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1202,6 +1274,7 @@
           <caret line="188" column="37" lean-forward="true" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
             <element signature="e#1876#1927#0" expanded="false" />
@@ -1241,6 +1314,10 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1258,6 +1335,7 @@
           <caret line="203" column="51" lean-forward="false" selection-start-line="203" selection-start-column="51" selection-end-line="203" selection-end-column="51" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
             <element signature="e#1876#1927#0" expanded="false" />
@@ -1297,6 +1375,10 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1314,6 +1396,7 @@
           <caret line="181" column="51" lean-forward="true" selection-start-line="181" selection-start-column="51" selection-end-line="181" selection-end-column="51" />
           <folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
             <element signature="e#1876#1927#0" expanded="false" />
@@ -1353,6 +1436,10 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1370,61 +1457,6 @@
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
 <<<<<<< HEAD
-            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
-            <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
-            <element signature="e#1876#1927#0" expanded="false" />
-            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
-            <element signature="e#2556#2581#0" expanded="false" />
-            <element signature="e#4162#4225#0" expanded="false" />
-            <element signature="e#4530#4572#0" expanded="false" />
-            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
-            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
-            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
-            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
-            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
-            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
-            <element signature="e#9562#9598#0" expanded="false" />
-            <element signature="e#9985#10031#0" expanded="false" />
-            <element signature="e#10967#10997#0" expanded="false" />
-            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
-            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
-            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
-            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
-            <element signature="e#15129#15169#0" expanded="false" />
-            <element signature="e#15541#15575#0" expanded="false" />
-            <element signature="e#15867#15912#0" expanded="false" />
-            <element signature="e#16129#16177#0" expanded="false" />
-            <element signature="e#16397#16442#0" expanded="false" />
-            <element signature="e#16659#16729#0" expanded="false" />
-            <element signature="e#16971#17038#0" expanded="false" />
-            <element signature="e#17275#17341#0" expanded="false" />
-            <element signature="e#17575#17638#0" expanded="false" />
-            <element signature="e#19908#19949#0" expanded="false" />
-            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
-            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
-=======
-            <element signature="e#9484#9485#0" expanded="true" />
-            <element signature="e#9514#9515#0" expanded="true" />
->>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2958">
-          <caret line="174" column="52" lean-forward="false" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
-          <folding>
 <<<<<<< HEAD
             <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
             <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
@@ -1465,6 +1497,71 @@
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="52" lean-forward="false" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
+          <folding>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <element signature="method#handleButtonAction#0;class#SampleController#0" expanded="false" />
+            <element signature="method#initialize#0;class#SampleController#0" expanded="false" />
+            <element signature="e#1876#1927#0" expanded="false" />
+            <element signature="method#test7#0;class#SampleController#0" expanded="false" />
+            <element signature="e#2556#2581#0" expanded="false" />
+            <element signature="e#4162#4225#0" expanded="false" />
+            <element signature="e#4530#4572#0" expanded="false" />
+            <element signature="method#blackandwhite2#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite3#0;class#SampleController#0" expanded="false" />
+            <element signature="method#blackandwhite#0;class#SampleController#0" expanded="false" />
+            <element signature="method#revertOriginal#0;class#SampleController#0" expanded="false" />
+            <element signature="method#viewImage#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openSingleFile#0;class#SampleController#0" expanded="false" />
+            <element signature="e#9562#9598#0" expanded="false" />
+            <element signature="e#9985#10031#0" expanded="false" />
+            <element signature="e#10967#10997#0" expanded="false" />
+            <element signature="method#openMultipleFiles#0;class#SampleController#0" expanded="false" />
+            <element signature="method#configureFileChooser#0;class#SampleController#0" expanded="false" />
+            <element signature="method#openFile#0;class#SampleController#0" expanded="false" />
+            <element signature="method#test1#0;class#SampleController#0" expanded="false" />
+            <element signature="e#15129#15169#0" expanded="false" />
+            <element signature="e#15541#15575#0" expanded="false" />
+            <element signature="e#15867#15912#0" expanded="false" />
+            <element signature="e#16129#16177#0" expanded="false" />
+            <element signature="e#16397#16442#0" expanded="false" />
+            <element signature="e#16659#16729#0" expanded="false" />
+            <element signature="e#16971#17038#0" expanded="false" />
+            <element signature="e#17275#17341#0" expanded="false" />
+            <element signature="e#17575#17638#0" expanded="false" />
+            <element signature="e#19908#19949#0" expanded="false" />
+            <element signature="method#test5#0;class#SampleController#0" expanded="false" />
+            <element signature="method#DisjointUnionSets#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#makeSet#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#find#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+            <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
+=======
+            <element signature="e#9484#9485#0" expanded="true" />
+            <element signature="e#9514#9515#0" expanded="true" />
+>>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
@@ -1672,11 +1769,16 @@
             <element signature="method#union#0;class#DisjointUnionSets#0;class#SampleController#0" expanded="false" />
 =======
         <state relative-caret-position="126">
-          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#9484#9485#0" expanded="true" />
             <element signature="e#9514#9515#0" expanded="true" />
 >>>>>>> 95af349ec8e02fcea21ee93889499bf239315d0f
+=======
+            <element signature="e#9489#9490#0" expanded="true" />
+            <element signature="e#9519#9520#0" expanded="true" />
+>>>>>>> 4f4089564e7b071f87ab069d932ac279403eaa80
           </folding>
         </state>
       </provider>
