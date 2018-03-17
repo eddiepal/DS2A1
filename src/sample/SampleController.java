@@ -176,8 +176,6 @@ public class SampleController implements Initializable {
                 counter++;
 
                 System.out.print("arr[" + y + "][" + x + "] = " + counter + " ");
-                if (x == width - 1) System.out.println();
-
 /*                    if(red > 200 && green > 200 && blue > 200) {
                         t++;
                         System.out.println(t);
