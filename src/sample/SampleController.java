@@ -249,6 +249,7 @@ public class SampleController implements Initializable {
 
         try {
             //image = result;
+            if(file!=null){
             result = ImageIO.read(file);
             int width = result.getWidth();
             int height = result.getHeight();
@@ -275,24 +276,31 @@ public class SampleController implements Initializable {
 
                     imageView.setFitWidth(600);
                     imageView.setFitHeight(600);
-
+                }
                 }
             }
 
 
-            File output = new File("C:\\Users\\Owner\\Pictures\\bwG.jpg");
-            ImageIO.write(result, "jpg", output);
+            File output = new File("C:\\Users\\edwar\\Pictures\\bwG.jpg");
+            if(result!=null) {
+                ImageIO.write(result, "jpg", output);
 
-            Image imageC = SwingFXUtils.toFXImage(result, null);
-            imageView.setImage(imageC);
+
+                Image imageC = SwingFXUtils.toFXImage(result, null);
+
+                imageView.setImage(imageC);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 
     public void revertOriginal(final ActionEvent t) {
-        Image revert = SwingFXUtils.toFXImage(image, null);
-        imageView.setImage(revert);
+        if(image!=null) {
+            Image revert = SwingFXUtils.toFXImage(image, null);
+            imageView.setImage(revert);
+        }
     }
 
     void viewImage(ActionEvent event) {
@@ -431,14 +439,19 @@ public class SampleController implements Initializable {
     }
 
     public void test1() throws IOException {
+        if(result!=null) {
 
-        int width = result.getWidth();
-        int height = result.getHeight();
-        int[][] pixelArray = new int[height][width];
 
-        sheepText.setText("Total sheep/clusters in image: " +
-                countSheep(pixelArray) + "\n" + "Number of sheep clusters: " + numberOfClusters + "\n" + "Number of individual sheep: " + numberOfSingle);
-        System.out.println("Done.");
+            int width = result.getWidth();
+            int height = result.getHeight();
+
+            int[][] pixelArray = new int[height][width];
+
+
+            sheepText.setText("Total sheep/clusters in image: " +
+                    countSheep(pixelArray) + "\n" + "Number of sheep clusters: " + numberOfClusters + "\n" + "Number of individual sheep: " + numberOfSingle);
+            System.out.println("Done.");
+        }
     }
 
     // Returns number of islands in a[][]
