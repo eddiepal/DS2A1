@@ -12,32 +12,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 
 <GridPane alignment="center" hgap="10" prefHeight="682.0" prefWidth="979.0" stylesheets="/sample/Sample.css" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SampleController">
-    <!--<MenuBar prefHeight="29.0" prefWidth="578.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
-        <menus>
-            <Menu mnemonicParsing="false" text="File">
-                <items>
-                    <MenuItem mnemonicParsing="false" onAction="#openSingleFIle" text="Load a new Image on Screen" />
-                    <MenuItem mnemonicParsing="false" onAction="#blackandwhite" text="Convert image to black and white" />
-                    <MenuItem mnemonicParsing="false" onAction="#revertOriginal" text="Revert image to its original state" />
-                    <MenuItem mnemonicParsing="false" text="Load an image in grayscale" />
-                    <MenuItem mnemonicParsing="false" text="Open an Image" />
 
-                </items>
-            </Menu>
-            <Menu mnemonicParsing="false" text="Colour Channels">
-                <items>
-                    <MenuItem mnemonicParsing="false" onAction="#handleButtonAction" text="Open Colour Channels Window" />
-                    <MenuItem mnemonicParsing="false" text="Open Image in Red, green or blue" />
-                </items>
-            </Menu>
-            <Menu mnemonicParsing="false" onAction="#exitMenu" text="Exit">
-                <items>
-                    <MenuItem mnemonicParsing="false" text="Close the Window" />
-                </items>
-            </Menu>
-        </menus>
-    </MenuBar>
--->
     <ImageView fx:id="imageView" cache="true" fitHeight="313.0" fitWidth="515.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="6" />
     <ToolBar prefHeight="40.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
         <items>
@@ -46,6 +21,7 @@
             <Button mnemonicParsing="false" onAction="#blackandwhite" text="Black and White" />
             <Button mnemonicParsing="false" onAction="#test1" text="Count Sheep in Image" />
             <Button mnemonicParsing="false" onAction="#exitMenu" text="Exit" />
+            <Button mnemonicParsing="false" onAction="#openColourSepearteWindow" text="Open separate Window" />
         </items>
     </ToolBar>
     <TextArea fx:id="sheepText" editable="false" prefHeight="75.0" prefWidth="515.0" promptText="Number of Sheep in image will display here." GridPane.columnIndex="2" GridPane.rowIndex="9" />
@@ -56,6 +32,33 @@
    <Slider fx:id="sliderN" majorTickUnit="5.0" max="300.0" orientation="VERTICAL" showTickLabels="true" GridPane.columnIndex="4" GridPane.rowIndex="6" />
    <TextField alignment="CENTER_RIGHT" editable="false" prefHeight="25.0" prefWidth="103.0" text="Sheep Pixel Size" GridPane.hgrow="NEVER" GridPane.rowIndex="4" />
    <TextField editable="false" text="Noise Modification" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+
+    <!--<MenuBar prefHeight="29.0" prefWidth="578.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+    <menus>
+        <Menu mnemonicParsing="false" text="File">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#openSingleFIle" text="Load a new Image on Screen" />
+                <MenuItem mnemonicParsing="false" onAction="#blackandwhite" text="Convert image to black and white" />
+                <MenuItem mnemonicParsing="false" onAction="#revertOriginal" text="Revert image to its original state" />
+                <MenuItem mnemonicParsing="false" text="Load an image in grayscale" />
+                <MenuItem mnemonicParsing="false" text="Open an Image" />
+
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Colour Channels">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#handleButtonAction" text="Open Colour Channels Window" />
+                <MenuItem mnemonicParsing="false" text="Open Image in Red, green or blue" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" onAction="#exitMenu" text="Exit">
+            <items>
+                <MenuItem mnemonicParsing="false" text="Close the Window" />
+            </items>
+        </Menu>
+    </menus>
+</MenuBar>
+-->
 
     <columnConstraints>
         <ColumnConstraints />

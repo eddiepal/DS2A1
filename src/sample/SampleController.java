@@ -49,7 +49,7 @@ public class SampleController implements Initializable {
     ImageView imageView1;
 
     @FXML
-    void openColourChannelsWIndow(ActionEvent event) {
+    void openColourSepearteWindow(ActionEvent event) {
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("ColourChannels.fxml"));
             Parent root1 = (Parent) fxmlLoader.load();
@@ -234,7 +234,7 @@ public class SampleController implements Initializable {
     final FileChooser fileChooser = new FileChooser();
 
     public void openSingleFile(final ActionEvent e) {
-        
+
         try {
             configureFileChooser(fileChooser);
             file = fileChooser.showOpenDialog(null);
@@ -242,9 +242,6 @@ public class SampleController implements Initializable {
             File input = new File(String.valueOf(file));
             image = ImageIO.read(input);
             fileChooser.setTitle("Select a new image to load");
-
-            //File input = new File(String.valueOf(file));
-            //BufferedImage image = new Image(file1.toURI().toString());
 
             imageView.setFitHeight(image.getHeight());
             imageView.setFitWidth(image.getWidth());

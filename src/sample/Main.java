@@ -20,8 +20,8 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
-        primaryStage.setTitle("Sheep Counter 2018 - Pro Edition");
-        primaryStage.setScene(new Scene(root, 1000, 800));
+        primaryStage.setTitle("Sheep Counter 2018 - Joe Edition");
+        primaryStage.setScene(new Scene(root, 100, 100));
 
 
         javafx.scene.control.MenuItem menuItem1 = new javafx.scene.control.MenuItem("Option 1");
