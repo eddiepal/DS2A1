@@ -28,10 +28,9 @@ import java.util.logging.Logger;
 
 import javafx.scene.control.Slider;
 
-//testdelete
 public class SampleController implements Initializable {
-//uuuuiiooopp
-    public Label helloWorld;
+
+    public Label test1;
     private Desktop desktop = Desktop.getDesktop();
     public TextArea sheepText;
     BufferedImage image = null;
@@ -43,14 +42,14 @@ public class SampleController implements Initializable {
     @FXML
     ImageView imageView;
     @FXML
-    ImageView imageView1;
-    @FXML
     Slider slider;
     @FXML
     Slider sliderN;
+    @FXML
+    ImageView imageView1;
 
     @FXML
-    void handleButtonAction(ActionEvent event) {
+    void openColourChannelsWIndow(ActionEvent event) {
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("ColourChannels.fxml"));
             Parent root1 = (Parent) fxmlLoader.load();
@@ -67,11 +66,6 @@ public class SampleController implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         File file = new File("src/Box13.jpg");
-        //Image image = new Image(file.toURI().toString());
-        //imageView.setImage(image);
-        //GetPixelColor();
-        //Grayscale();
-        //blackandwhite();
         imageView.setFitWidth(600);
         imageView.setFitHeight(600);
         try {
@@ -85,59 +79,6 @@ public class SampleController implements Initializable {
     public void test7() throws IOException {
         while (sliderN.isValueChanging()) {
             test1();
-        }
-    }
-
-    public void Grayscale() {
-
-        BufferedImage img = null;
-        File f = null;
-
-        configureFileChooser(fileChooser);
-        File file = fileChooser.showOpenDialog(null);
-        //String filePath = null;
-        //if (file != null) {
-
-        //filePath = file.getAbsolutePath();
-
-        //File file1 = new File(String.valueOf(file));
-        //Image image = new Image(file1.toURI().toString());
-        //}
-
-        try {
-            f = new File(String.valueOf(file));
-            img = ImageIO.read(f);
-        } catch (IOException e) {
-            System.out.println(e);
-        }
-
-        //get image width and height
-        int width = img.getWidth();
-        int height = img.getHeight();
-
-        for (int y = 0; y < height; y++) {
-            for (int x = 0; x < width; x++) {
-
-                int p = img.getRGB(x, y);
-                int a = (p >> 24) & 0xff;
-                int r = (p >> 16) & 0xff;
-                int g = (p >> 8) & 0xff;
-                int b = p & 0xff;
-
-                int avg = (r + g + b) / 3;
-
-                p = (a << 24) | (avg << 16) | (avg << 8) | avg;
-                img.setRGB(x, y, p);
-
-                // some code goes here...
-
-            }
-        }
-        try {
-            f = new File("C:\\Users\\edwar\\Pictures\\grayscale.jpg");
-            ImageIO.write(img, "jpg", f);
-        } catch (IOException e) {
-            System.out.println(e);
         }
     }
 
@@ -197,33 +138,10 @@ public class SampleController implements Initializable {
 
     }
 
-    public void blackandwhite2(final ActionEvent t) {
+    public void blackandwhiteGraphics(final ActionEvent t) {
 
         try {
-            BufferedImage result = new BufferedImage(
-                    image.getWidth(),
-                    image.getHeight(),
-                    BufferedImage.TYPE_BYTE_BINARY);
-
-            Graphics2D graphic = result.createGraphics();
-            graphic.drawImage(image, 0, 0, Color.BLACK, null);
-            graphic.dispose();
-
-            File output = new File("C:\\Users\\Owner\\Pictures\\sheep99.jpg");
-            ImageIO.write(result, "jpg", output);
-
-            Image imageC = SwingFXUtils.toFXImage(result, null);
-            imageView.setImage(imageC);
-
-        } catch (IOException e) {
-            //e.printStackTrace();
-            System.out.println("You must load an image first.");
-        }
-    }
-
-    public void blackandwhite3(final ActionEvent t) {
-
-        try {
+            boolean ingore2 = true;
             BufferedImage result = new BufferedImage(
                     image.getWidth(),
                     image.getHeight(),
@@ -249,7 +167,6 @@ public class SampleController implements Initializable {
 
         try {
             //image = result;
-            if(file!=null){
             result = ImageIO.read(file);
             int width = result.getWidth();
             int height = result.getHeight();
@@ -276,31 +193,24 @@ public class SampleController implements Initializable {
 
                     imageView.setFitWidth(600);
                     imageView.setFitHeight(600);
-                }
+
                 }
             }
 
 
-            File output = new File("C:\\Users\\edwar\\Pictures\\bwG.jpg");
-            if(result!=null) {
-                ImageIO.write(result, "jpg", output);
+            File output = new File("C:\\Users\\Owner\\Pictures\\bwG.jpg");
+            ImageIO.write(result, "jpg", output);
 
-
-                Image imageC = SwingFXUtils.toFXImage(result, null);
-
-                imageView.setImage(imageC);
-            }
+            Image imageC = SwingFXUtils.toFXImage(result, null);
+            imageView.setImage(imageC);
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public void revertOriginal(final ActionEvent t) {
-        if(image!=null) {
-            Image revert = SwingFXUtils.toFXImage(image, null);
-            imageView.setImage(revert);
-        }
+        Image revert = SwingFXUtils.toFXImage(image, null);
+        imageView.setImage(revert);
     }
 
     void viewImage(ActionEvent event) {
@@ -324,11 +234,7 @@ public class SampleController implements Initializable {
     final FileChooser fileChooser = new FileChooser();
 
     public void openSingleFile(final ActionEvent e) {
-        //configureFileChooser(fileChooser);
-        //File file = fileChooser.showOpenDialog(null);
-
-        //BufferedImage image = null;
-
+        
         try {
             configureFileChooser(fileChooser);
             file = fileChooser.showOpenDialog(null);
@@ -359,52 +265,6 @@ public class SampleController implements Initializable {
         } catch (IOException e1) {
             //e1.printStackTrace();
             System.out.println("File Chooser Closed.");
-        }
-            /*            if(imageView.getFitHeight() >= 5 ){
-                imageView.setFitHeight(5);
-            }
-
-            if(imageView.getFitWidth() >= 5 ){
-                //image.
-            }*/
-
-        //WritableImage bImage = null;
-        //fromFXImage(image, java.awt.image.BufferedImage bImage);
-
-        //public void toGrayScale( final ActionEvent event){
-        //BufferedImage bImage = SwingFXUtils.fromFXImage(image, null);
-/*            int width = (int) image.getWidth();
-            int height = (int) image.getHeight();
-            image = new WritableImage(width, height);
-            PixelReader pixelReader = image.getPixelReader();*/
-        //PixelWriter pixelWriter = image.getPixelWriter();
-
-/*            for (int x = 0; x < width; x++) {
-                for (int y = 0; y < height; y++) {
-                    int pixel = pixelReader.getArgb(x, y);
-
-                    int red = ((pixel >> 16) & 0xff);
-                    int green = ((pixel >> 8) & 0xff);
-                    int blue = (pixel & 0xff);
-
-                    int grayLevel = (int) (0.2162 * (double) red + 0.7152 * (double) green + 0.0722 * (double) blue) / 3;
-                    grayLevel = 255 - grayLevel; // Inverted the grayLevel value here.
-                    int gray = (grayLevel << 16) + (grayLevel << 8) + grayLevel;
-
-                    pixelWriter.setArgb(x, y, -gray); // AMENDED TO -gray here.
-
-                }
-            }*/
-    }
-
-    public void openMultipleFiles(final ActionEvent e) {
-        configureFileChooser(fileChooser);
-        List<File> list =
-                fileChooser.showOpenMultipleDialog(null);
-        if (list != null) {
-            for (File file : list) {
-                openFile(file);
-            }
         }
     }
 
@@ -439,19 +299,14 @@ public class SampleController implements Initializable {
     }
 
     public void test1() throws IOException {
-        if(result!=null) {
 
+        int width = result.getWidth();
+        int height = result.getHeight();
+        int[][] pixelArray = new int[height][width];
 
-            int width = result.getWidth();
-            int height = result.getHeight();
-
-            int[][] pixelArray = new int[height][width];
-
-
-            sheepText.setText("Total sheep/clusters in image: " +
-                    countSheep(pixelArray) + "\n" + "Number of sheep clusters: " + numberOfClusters + "\n" + "Number of individual sheep: " + numberOfSingle);
-            System.out.println("Done.");
-        }
+        sheepText.setText("Total sheep/clusters in image: " +
+                countSheep(pixelArray) + "\n" + "Number of sheep clusters: " + numberOfClusters + "\n" + "Number of individual sheep: " + numberOfSingle);
+        System.out.println("Done.");
     }
 
     // Returns number of islands in a[][]
@@ -482,18 +337,12 @@ public class SampleController implements Initializable {
                 }
                 int ignore2;
 
-
-                // Check all 8 neighbours and do a union
-                // with neighbour's set if neighbour is
-                // also 1
-
 /*                int finalClr = clr;
                 Runnable r1 = () -> {
                     red.set((finalClr & 0x00ff0000) >> 16);
                     green.set((finalClr & 0x0000ff00) >> 8);
                     blue.set(finalClr & 0x000000ff);
                 };*/
-
                 //Thread thread1 = new Thread(r1);
 
                 //if (y + 1 < height) clr = img.getRGB(x, y + 1);
@@ -564,27 +413,6 @@ public class SampleController implements Initializable {
                 int red = (clr & 0x00ff0000) >> 16;
                 int green = (clr & 0x0000ff00) >> 8;
                 int blue = clr & 0x000000ff;
-/*                if (red > 220 && green > 220 && blue > 220) {
-
-                    //a = 255;
-                    red = 255;
-                    green = 255;
-                    blue = 255;
-                    //clr = img.getRGB(x, y);
-
-                    //set the pixel value
-                    clr = (red << 16) | (green << 8) | blue;
-                    result.setRGB(x, y, clr);
-                } else if (red <= 220 && green <= 220 && blue <= 220) {
-                    red = 0;
-                    green = 0;
-                    blue = 0;
-                    //clr = img.getRGB(x, y);
-
-                    //set the pixel value
-                    clr = (red << 16) | (green << 8) | blue;
-                    result.setRGB(x, y, clr);
-                }*/
 
                 if (red == 255 && green == 255 && blue == 255) {
                     int t = dus.find(y * width + x);
@@ -599,10 +427,9 @@ public class SampleController implements Initializable {
                     if (c[t] >= 0 && c[t] < noise) {
 
 
-                        ;
                         //if (red <20 && green <20 && blue <20) {
-
                         //a = 255;
+
                         r = 0;
                         g = 0;
                         b = 0;
@@ -623,7 +450,7 @@ public class SampleController implements Initializable {
                         numberOfSheep++;
                         c[t]++;
                     }
-                    if (c[t] == count+1000){
+                    if (c[t] == count + 1000) {
                         numberOfClusters++;
                         c[t]++;
                         System.out.println(numberOfClusters);
@@ -631,8 +458,7 @@ public class SampleController implements Initializable {
                     if (c[t] == 0 && c[t] < count) {
                         numberOfSingle++;
                         c[t]++;
-                    }
-                    else {
+                    } else {
                         c[t]++;
                     }
 
@@ -640,54 +466,13 @@ public class SampleController implements Initializable {
                 }
             }
         }
-        //int t = dus.find(y * width + x);
-/*        int sHeight = c.length;
-        int sWidth = c.length;
-        System.out.println(sHeight);
-        System.out.println(sWidth);*/
-
-        /*for (int y = 0; y < sHeight; y++) {
-            for (int x = 0; x < sWidth; x++) {
-                int p = result.getRGB(x, y);
-                int r = (p & 0x00ff0000) >> 16;
-                int g = (p & 0x0000ff00) >> 8;
-                int b = p & 0x000000ff;
-                if (r > 220 && g > 220 && b > 220) {
-
-                    //a = 255;
-                    r = 255;
-                    g = 0;
-                    b = 0;
-                    //clr = img.getRGB(x, y);
-
-                    //set the pixel value
-                    p = (r << 16) | (g << 8) | b;
-                    result.setRGB(x, y, p);
-                } else if (r <= 220 && g <= 220 && b <= 220) {
-                    r = 0;
-                    g = 0;
-                    b = 255;
-                    //clr = img.getRGB(x, y);
-
-                    //set the pixel value
-                    p = (r << 16) | (g << 8) | b;
-                    result.setRGB(x, y, p);
-                }
-
-
-            }
-
-
-        }*/
-
-
-        test5();
+        imageViewLoad();
         return numberOfSheep;
 
 
     }
 
-    public void test5() {
+    public void imageViewLoad() {
         imageView.setFitHeight(result.getHeight());
         imageView.setFitWidth(result.getWidth());
 
@@ -699,7 +484,6 @@ public class SampleController implements Initializable {
         imageView.setFitHeight(600);
         imageView.setPreserveRatio(true);
     }
-//test
 
     class DisjointUnionSets {
         int[] rank, parent;
@@ -740,8 +524,7 @@ public class SampleController implements Initializable {
             else if (rank[yRoot] < rank[xRoot])
                 parent[yRoot] = xRoot;
 
-            else
-            {
+            else {
                 parent[yRoot] = xRoot;
 
                 rank[xRoot] = rank[xRoot] + 1;
