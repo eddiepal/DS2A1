@@ -69,16 +69,16 @@ public class Controller implements Initializable {
         imageView.setFitWidth(600);
         imageView.setFitHeight(600);
         try {
-            test7();
+            setSliderN();
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
 
-    public void test7() throws IOException {
+    public void setSliderN() throws IOException {
         while (sliderN.isValueChanging()) {
-            test1();
+            displayCounted();
         }
     }
 
@@ -301,7 +301,7 @@ public class Controller implements Initializable {
         return filePath;
     }
 
-    public void test1() {
+    public void displayCounted() {
         try {
             int width = result.getWidth();
             int height = result.getHeight();
