@@ -5,89 +5,81 @@ import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.jboss.shrinkwrap.api.asset.EmptyAsset;
 import org.jboss.shrinkwrap.api.spec.JavaArchive;
+import org.junit.Before;
+import org.junit.Test;
 import org.junit.runner.RunWith;
-
 import static org.junit.Assert.*;
 
 @RunWith(Arquillian.class)
-public class SampleControllerTest {
+public class ControllerTest {
     @Deployment
     public static JavaArchive createDeployment() {
         return ShrinkWrap.create(JavaArchive.class)
-                .addClass(SampleController.class)
+                .addClass(Controller.class)
                 .addAsManifestResource(EmptyAsset.INSTANCE, "beans.xml");
     }
 
-    @org.junit.Before
+    @Before
     public void setUp() throws Exception {
     }
 
-    @org.junit.Test
+    @Test
     public void handleButtonAction() {
     }
 
-    @org.junit.Test
+    @Test
     public void initialize() {
     }
 
-    @org.junit.Test
+    @Test
     public void test7() {
     }
 
-    @org.junit.Test
+    @Test
     public void grayscale() {
     }
 
-    @org.junit.Test
+    @Test
     public void getPixelColor() {
     }
 
-    @org.junit.Test
-    public void blackandwhite2() {
-    }
-
-    @org.junit.Test
-    public void blackandwhite3() {
-    }
-
-    @org.junit.Test
+    @Test
     public void blackandwhite() {
     }
 
-    @org.junit.Test
+    @Test
     public void revertOriginal() {
     }
 
-    @org.junit.Test
+    @Test
     public void viewImage() {
     }
 
-    @org.junit.Test
+    @Test
     public void exitMenu() {
-
     }
 
-    @org.junit.Test
+    @Test
     public void openSingleFile() {
     }
 
-    @org.junit.Test
+    @Test
     public void openMultipleFiles() {
     }
 
-    @org.junit.Test
+    @Test
     public void openFile() {
     }
 
-    @org.junit.Test
+    @Test
     public void test1() {
     }
 
-    @org.junit.Test
+    @Test
     public void countSheep() {
     }
 
-    @org.junit.Test
+    @Test
     public void test5() {
     }
 }

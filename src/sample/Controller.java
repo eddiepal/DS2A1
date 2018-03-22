@@ -28,7 +28,7 @@ import java.util.logging.Logger;
 
 import javafx.scene.control.Slider;
 
-public class SampleController implements Initializable {
+public class Controller implements Initializable {
 
     public Label test1;
     private Desktop desktop = Desktop.getDesktop();
@@ -59,7 +59,7 @@ public class SampleController implements Initializable {
             stage.setScene(new Scene(root1));
             stage.show();
         } catch (Exception e) {
-            System.out.println("Can't load window");
+            System.out.println("Can't load window, removed in previous version.");
         }
     }
 
@@ -203,14 +203,20 @@ public class SampleController implements Initializable {
 
             Image imageC = SwingFXUtils.toFXImage(result, null);
             imageView.setImage(imageC);
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (Exception e) {
+            //e.printStackTrace();
+            sheepText.setText("Please open an image first.");
         }
     }
 
     public void revertOriginal(final ActionEvent t) {
-        Image revert = SwingFXUtils.toFXImage(image, null);
-        imageView.setImage(revert);
+        try {
+            Image revert = SwingFXUtils.toFXImage(image, null);
+            imageView.setImage(revert);
+        }
+        catch (Exception e) {
+            sheepText.setText("Please open an image first.");
+        }
     }
 
     void viewImage(ActionEvent event) {
@@ -266,7 +272,7 @@ public class SampleController implements Initializable {
     }
 
     private static void configureFileChooser(final FileChooser fileChooser) {
-        fileChooser.setTitle("Load an Image");
+        fileChooser.setTitle("Load an Image to convert and count sheep");
         fileChooser.setInitialDirectory(
                 new File(System.getProperty("user.home"))
         );
@@ -288,26 +294,30 @@ public class SampleController implements Initializable {
 
         } catch (IOException ex) {
             Logger.getLogger(
-                    SampleController.class.getName()).log(
+                    Controller.class.getName()).log(
                     Level.SEVERE, null, ex
             );
         }
         return filePath;
     }
 
-    public void test1() throws IOException {
+    public void test1() {
+        try {
+            int width = result.getWidth();
+            int height = result.getHeight();
+            int[][] pixelArray = new int[height][width];
 
-        int width = result.getWidth();
-        int height = result.getHeight();
-        int[][] pixelArray = new int[height][width];
-
-        sheepText.setText("Total sheep/clusters in image: " +
-                countSheep(pixelArray) + "\n" + "Number of sheep clusters: " + numberOfClusters + "\n" + "Number of individual sheep: " + numberOfSingle);
-        System.out.println("Done.");
+            sheepText.setText("Total sheep/clusters in image: " +
+                    countSheep(pixelArray) + "\n" + "Number of sheep clusters: " + numberOfClusters + "\n" + "Number of individual sheep: " + numberOfSingle);
+            System.out.println("Done.");
+        }
+        catch(Exception e){
+            sheepText.setText("Please open an image first.");
+        }
     }
 
-    // Returns number of islands in a[][]
-    int countSheep(int pixelArray[][]) throws IOException {
+    // Returns number of sheep in a[][]
+    int countSheep(int pixelArray[][]) {
         blackandwhite();
         int height = pixelArray.length;
         int width = pixelArray[0].length;
@@ -316,8 +326,7 @@ public class SampleController implements Initializable {
         DisjointUnionSets dus = new DisjointUnionSets(height * width);
         DisjointUnionSets dus2 = new DisjointUnionSets(height * width);
 
-        /* The following loop checks for its neighbours
-           and unites the indexes  if both are 1. */
+
         for (int y = 0; y < height; y++) {
             for (int x = 0; x < width; x++) {
                 // If cell is 0, nothing to do
@@ -348,39 +357,18 @@ public class SampleController implements Initializable {
 
                 if (y + 1 < height && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * (width) + x, (y + 1) * (width) + x);
-
-                //if (y - 1 >= 0) clr = img.getRGB(x, y - 1);
-                //thread1.run();
                 if (y - 1 >= 0 && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * (width) + x, (y - 1) * (width) + x);
-
-                //if (x + 1 < width) clr = img.getRGB(x + 1, y);
-                //thread1.run();
                 if (x + 1 < width && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * (width) + x, (y) * (width) + x + 1);
-
-                //if (x - 1 >= 0) clr = img.getRGB(x - 1, y);
-                //thread1.run();
                 if (x - 1 >= 0 && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * (width) + x, (y) * (width) + x - 1);
-
-                //if (y + 1 < height && x + 1 < width) clr = img.getRGB(x + 1, y + 1);
-                //thread1.run();
                 if (y + 1 < height && x + 1 < width && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * (width) + x, (y + 1) * (width) + x + 1);
-
-                //if (y + 1 < height && x - 1 >= 0) clr = img.getRGB(x - 1, y + 1);
-                //thread1.run();
                 if (y + 1 < height && x - 1 >= 0 && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * width + x, (y + 1) * (width) + x - 1);
-
-                //if (y - 1 >= 0 && x + 1 < width) clr = img.getRGB(x + 1, y - 1);
-                //thread1.run();
                 if (y - 1 >= 0 && x + 1 < width && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * width + x, (y - 1) * width + x + 1);
-
-                //if (y - 1 >= 0 && x - 1 >= 0) clr = img.getRGB(x - 1, y - 1);
-                //thread1.run();
                 if (y - 1 >= 0 && x - 1 >= 0 && red.get() == 255 && green.get() == 255 && blue.get() == 255)
                     dus.union(y * width + x, (y - 1) * width + x - 1);
 /*
