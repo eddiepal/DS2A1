@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.RowConstraints?>
 
-<GridPane alignment="center" hgap="10" prefHeight="682.0" prefWidth="979.0" stylesheets="/sample/Sample.css" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+<GridPane alignment="center" hgap="10" prefHeight="682.0" prefWidth="979.0" stylesheets="/sample/Sample.css" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.CounterController">
 
     <ImageView fx:id="imageView" cache="true" fitHeight="313.0" fitWidth="515.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="6" />
     <ToolBar prefHeight="40.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
@@ -19,7 +19,7 @@
             <Button mnemonicParsing="false" onAction="#openSingleFile" text="Open an Image" />
             <Button mnemonicParsing="false" onAction="#revertOriginal" text="Original" />
             <Button mnemonicParsing="false" onAction="#blackandwhite" text="Black and White" />
-            <Button mnemonicParsing="false" onAction="#test1" text="Count Sheep in Image" />
+            <Button mnemonicParsing="false" onAction="#displayCounted" text="Count Sheep in Image" />
             <Button mnemonicParsing="false" onAction="#exitMenu" text="Exit" />
             <Button mnemonicParsing="false" onAction="#openColourSepearteWindow" text="Open separate Window" />
         </items>

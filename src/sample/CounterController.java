@@ -20,7 +20,6 @@ import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.net.URL;
-import java.util.List;
 import java.util.ResourceBundle;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Level;
@@ -28,7 +27,7 @@ import java.util.logging.Logger;
 
 import javafx.scene.control.Slider;
 
-public class Controller implements Initializable {
+public class CounterController implements Initializable {
 
     public Label test1;
     private Desktop desktop = Desktop.getDesktop();
@@ -294,7 +293,7 @@ public class Controller implements Initializable {
 
         } catch (IOException ex) {
             Logger.getLogger(
-                    Controller.class.getName()).log(
+                    CounterController.class.getName()).log(
                     Level.SEVERE, null, ex
             );
         }

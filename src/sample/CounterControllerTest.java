@@ -8,14 +8,13 @@ import org.jboss.shrinkwrap.api.spec.JavaArchive;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import static org.junit.Assert.*;
 
 @RunWith(Arquillian.class)
-public class ControllerTest {
+public class CounterControllerTest {
     @Deployment
     public static JavaArchive createDeployment() {
         return ShrinkWrap.create(JavaArchive.class)
-                .addClass(Controller.class)
+                .addClass(CounterController.class)
                 .addAsManifestResource(EmptyAsset.INSTANCE, "testtest.xml");
     }
 
